@@ -1,0 +1,95 @@
+body {
+    background: #17313E;
+    
+}
+
+/* #quadradao {
+    background-color: #7A7A73;
+    width: 70%;
+    height: 70vh;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#quadradinho1 {
+    width: 400px;
+    height: 400px;
+    background: #FF7A30;
+}
+
+#quadradinho2 {
+    width: 400px;
+    height: 400px;
+    background: #ffc507;
+} */
+
+
+
+
+#rosto
+{
+width: 200px;
+height: 200px;
+position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(-50%,-50%);
+background-color: rgb(0, 0, 0);
+border-radius: 50%;
+
+
+}
+
+.orelha
+{
+width: 100px;
+height: 100px;
+background-color: rgb(0, 0, 0);
+border-radius: 50%;
+}
+
+#orelhas
+{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: -10;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
