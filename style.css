@@ -116,6 +116,15 @@ align-items: center;
     background-color: #17313E;
 }
 
+#beiço
+{
+    height: 20px;
+    width: 30px;
+    background-color: red;
+    border-radius: 51% 49% 53% 47% / 0% 0% 100% 100% ;
+    margin-top: 10px;
+}
+
 
 
 
